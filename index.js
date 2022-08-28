@@ -4,3 +4,11 @@ function laCajaDePandora(int){
      else 
       return int.toString(16)
    }
+
+function sergio() {
+    return {
+        nombre:"Sergio",
+        edad:44,
+        nacionalidad:"Argentino"
+    }
+}
