@@ -9,3 +9,9 @@ function calculo(num){
    console.log(laCajaDePandora(128))
 
 
+const florencia ={
+  nombre: "Florencia",
+  edad: 34,
+  nacionalidad: "Argentina"
+}
+console.log(florencia)
