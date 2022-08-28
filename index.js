@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function laCajaDePandora(int){
     if(int % 2 === 0)
       return int.toString(2)
@@ -12,3 +13,5 @@ function sergio() {
         nacionalidad:"Argentino"
     }
 }
+=======
+>>>>>>> a6fe6e53c51f25346e2278bc86677da0c493c952
