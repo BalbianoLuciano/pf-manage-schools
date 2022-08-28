@@ -7,3 +7,16 @@ function calculo(num){
    }
    
    console.log(laCajaDePandora(128))
+
+   const Persona ={
+    nombre: "Santiago",
+    apellido: "Vergara",
+    edad: 24,
+    grupo: "27b"
+}
+
+const FuncionRequerida = ()=>{
+    return `${Persona.nombre} ${Persona.apellido}`
+}
+
+console.log(FuncionRequerida())
