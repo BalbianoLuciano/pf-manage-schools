@@ -5,3 +5,18 @@ const funcionProbandoGit = (numero)=>{
       return numero.toString(16)
     }
    }
+
+/*Segundo requerimiento*/
+
+const Persona ={
+    nombre: "Lorena",
+    apellido: "Rodriguez",
+    edad: 33,
+    grupo: "27b"
+}
+
+const FuncionRequerida = ()=>{
+    return `${Persona.nombre} ${Persona.apellido}`
+}
+
+console.log(FuncionRequerida())
